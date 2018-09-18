@@ -26,7 +26,7 @@ def model_to_evaluate(input_dimensions, output_dimensions):
     # For full documentation see: https://keras.io/
     model = Sequential()
     # Layers documentation here: https://keras.io/layers/core/
-    # This model focuses on Dense and Dropout Layers
+    # This model currently focuses on Dense and Dropout Layers
     model.add(Dense(10, input_dim=input_dimensions, activation='relu'))
     model.add(Dense(25, activation='relu'))
     model.add(Dropout(.05))
