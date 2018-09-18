@@ -110,6 +110,24 @@ Make sure you have Python 3.6.x installed on your system. You can download it [h
   - Compiling the model is open to any [Keras] supported methods
     - Note that `accuracy` should always be the first listed metric.
 
+### Run Your Model
+
+Use Python to execute the `BaseCode.py` file. This will import your AnnCode.py file and your data to process the results.
+```sh
+$ python BaseCode.py
+```
+
+Your output should look something like this:
+```sh
+Expected Accuracy (kfold): 0.75
+Tested Accuracy: 0.9800000190734863
+Confusion Matrix:
+    0   1   2
+0  19   0   0
+1   0  14   1
+2   0   0  16
+```
+
 License
 -------
 
