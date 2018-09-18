@@ -5,13 +5,13 @@ from keras.layers import Dense, Dropout
 #==============================================================================
 # Data Input
 #==============================================================================
-filename = 'CoffeeTime.csv'  #This file should be placed in the Data folder
+filename = 'DroneDelivery.csv'  #This file should be placed in the Data folder
 
 #==============================================================================
 # Choices
 #==============================================================================
 test_pct=.20        #Set the percentage of your data to test upon
-num_epochs=100      #Set the number of epochs(forward and backward passes)
+num_epochs=100     #Set the number of epochs(forward and backward passes)
 batch_size=100      #Set the batch size (Amount of data to consider in an epoch)
 random_seed=42      #Set the random seed to initialize your Neural Net
 use_kfold=True      #Set as True if you want to create an estimate for accuracy using k folds (otherwise False)

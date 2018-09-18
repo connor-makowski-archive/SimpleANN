@@ -1,0 +1,603 @@
+Week_Of_Year,Hour_Of_Day,Drone_Type,Battery_Weight,Package_Weight,Delivery_Distance,Drone_Age,Temprature,Cloud_Cover,Wind_Speed,Delivery_Success
+con,con,cat,con,con,con,con,con,cat,con,cat
+fet,fet,fet,fet,fet,fet,fet,fet,fet,fet,tar
+26,21,Quad,12,19,7.4,2,25,Partly Cloudy,12,Success
+17,14,Quad,20,13,6.5,5,27,Sunny,15,Success
+19,8,Hex,20,16,0.4,3,26,Sunny,0,Success
+24,7,Hex,24,6,9.1,3,29,Sunny,15,Fail
+25,18,Quad,12,20,9,7,27,Sunny,10,Success
+26,17,Hex,20,6,1,3,33,Cloudy,3,Success
+27,13,Quad,16,10,4.5,4,23,Sunny,2,Success
+23,9,Quad,20,20,9.7,4,22,Sunny,5,Success
+15,10,Hex,20,5,6.6,2,18,Sunny,5,Success
+19,19,Hex,16,10,7.6,1,23,Partly Cloudy,13,Success
+29,19,Quad,16,7,6.5,1,35,Sunny,14,Success
+22,11,Hex,20,20,7.8,3,25,Sunny,11,Success
+15,18,Quad,12,7,6.6,4,13,Partly Cloudy,15,Success
+23,10,Hex,16,4,4,11,28,Sunny,5,Success
+22,14,Hex,20,14,7.1,6,21,Cloudy,10,Fail
+21,20,Quad,16,17,0.9,4,12,Cloudy,0,Success
+25,9,Hex,24,6,9.2,4,31,Sunny,10,Success
+19,18,Quad,20,6,9.2,5,25,Sunny,2,Success
+16,9,Quad,16,7,9.1,7,7,Sunny,12,Success
+13,10,Quad,12,16,9.6,6,5,Sunny,1,Success
+20,8,Hex,16,2,1.5,8,15,Cloudy,1,Success
+29,17,Hex,24,12,2.5,11,30,Partly Cloudy,2,Success
+13,18,Quad,16,4,2.9,8,13,Sunny,12,Success
+14,8,Hex,20,17,4.4,8,12,Cloudy,6,Fail
+23,13,Hex,20,11,3.3,5,28,Partly Cloudy,0,Success
+13,17,Hex,24,14,4,7,14,Sunny,10,Success
+21,17,Hex,16,8,4.9,5,29,Sunny,12,Success
+26,11,Quad,16,8,6.1,2,33,Sunny,1,Success
+13,7,Quad,12,9,3.6,1,24,Partly Cloudy,13,Success
+16,12,Quad,16,6,1.2,10,17,Sunny,11,Success
+14,20,Hex,20,5,6.1,11,5,Sunny,9,Success
+17,19,Hex,20,5,0.2,3,11,Cloudy,12,Success
+27,10,Hex,20,24,3.5,9,31,Cloudy,8,Fail
+24,12,Quad,16,17,6.4,8,26,Sunny,4,Success
+17,18,Hex,20,18,9.2,10,12,Sunny,0,Success
+28,15,Quad,16,13,1,8,17,Cloudy,13,Fail
+21,9,Quad,20,15,8.9,7,22,Sunny,14,Success
+27,16,Hex,24,5,4.8,4,32,Sunny,3,Success
+14,14,Quad,16,17,2.1,5,4,Sunny,4,Success
+18,16,Hex,16,2,2,1,31,Sunny,9,Success
+16,20,Hex,20,20,1.8,6,16,Partly Cloudy,7,Fail
+20,16,Hex,24,14,3.7,0,15,Cloudy,11,Fail
+21,11,Hex,16,5,9.5,8,16,Partly Cloudy,3,Success
+26,9,Hex,24,22,9,6,32,Sunny,6,Fail
+20,9,Quad,20,8,0.7,6,14,Cloudy,6,Success
+15,13,Hex,20,24,7.1,1,18,Sunny,5,Success
+13,21,Quad,12,9,1.1,10,4,Partly Cloudy,15,Success
+28,13,Hex,20,8,3.9,7,10,Sunny,3,Success
+22,11,Quad,20,13,4.2,2,19,Sunny,10,Success
+21,12,Hex,24,4,1.9,12,12,Sunny,7,Success
+18,11,Hex,20,8,3.2,7,13,Sunny,8,Success
+15,14,Hex,16,20,0.5,2,12,Partly Cloudy,10,Success
+28,18,Quad,20,4,2.5,1,33,Sunny,10,Success
+14,19,Quad,16,4,1,8,30,Partly Cloudy,2,Success
+19,19,Quad,12,12,4.9,0,31,Cloudy,5,Success
+28,18,Hex,24,8,3.2,10,16,Sunny,8,Success
+25,11,Hex,20,17,3.9,4,35,Sunny,7,Success
+25,21,Quad,12,10,8.6,0,34,Sunny,11,Success
+26,12,Quad,12,22,6.3,0,35,Sunny,0,Success
+23,14,Hex,16,20,3.7,1,31,Cloudy,13,Fail
+19,19,Quad,12,21,9,1,13,Cloudy,15,Fail
+25,14,Hex,20,3,9.6,1,35,Sunny,1,Success
+25,12,Hex,24,6,4.8,0,17,Cloudy,1,Success
+29,16,Hex,24,23,2.5,11,23,Cloudy,12,Fail
+23,16,Hex,24,3,5.4,12,21,Sunny,10,Success
+26,10,Quad,20,24,4.1,12,24,Partly Cloudy,8,Fail
+21,21,Hex,20,11,1.9,5,27,Partly Cloudy,6,Success
+13,14,Quad,12,16,7.3,5,4,Sunny,9,Success
+20,10,Hex,16,9,6.5,5,23,Partly Cloudy,15,Success
+28,21,Hex,20,10,9,1,35,Sunny,5,Success
+14,20,Hex,16,24,1.1,4,20,Partly Cloudy,13,Success
+23,9,Hex,24,14,8.2,12,25,Partly Cloudy,6,Fail
+28,13,Hex,16,2,8.6,11,24,Sunny,11,Success
+23,20,Hex,24,17,8.8,6,17,Partly Cloudy,5,Success
+27,7,Hex,16,2,3.3,10,26,Sunny,15,Success
+25,15,Hex,20,21,3.2,12,17,Cloudy,2,Fail
+15,16,Quad,20,2,9.4,1,19,Cloudy,12,Success
+19,18,Quad,20,3,3.8,8,19,Partly Cloudy,12,Success
+15,12,Quad,12,16,8.4,10,21,Cloudy,10,Fail
+14,10,Hex,20,19,6.3,8,4,Sunny,13,Fail
+16,9,Hex,20,21,0.7,4,19,Cloudy,8,Success
+27,21,Quad,16,9,0.9,3,19,Sunny,11,Success
+25,7,Quad,20,12,5,10,35,Sunny,4,Success
+21,21,Hex,24,11,9,3,34,Sunny,3,Success
+18,10,Quad,20,11,9.7,3,18,Sunny,9,Success
+27,11,Hex,24,13,8.4,11,23,Partly Cloudy,12,Fail
+14,17,Quad,20,12,1.6,8,24,Cloudy,11,Fail
+20,9,Quad,12,21,3.8,6,8,Sunny,3,Success
+27,19,Hex,20,2,0.5,12,26,Sunny,2,Success
+16,7,Quad,12,13,2.2,1,25,Sunny,3,Success
+21,12,Hex,16,6,7.5,2,23,Partly Cloudy,10,Success
+21,17,Hex,16,24,3.5,11,27,Partly Cloudy,0,Success
+20,7,Hex,16,20,4.6,10,22,Sunny,5,Success
+14,18,Quad,20,10,5.7,4,21,Sunny,3,Success
+13,7,Hex,24,5,2.6,9,4,Sunny,4,Success
+13,11,Hex,16,2,8.8,10,11,Partly Cloudy,5,Success
+21,21,Quad,16,22,0.5,5,11,Cloudy,3,Success
+24,11,Quad,20,13,6.5,7,4,Partly Cloudy,6,Fail
+23,17,Quad,12,12,0.9,1,22,Sunny,2,Success
+19,10,Quad,16,8,8.5,2,16,Partly Cloudy,12,Success
+25,21,Quad,12,19,5.2,5,32,Cloudy,14,Success
+24,20,Quad,20,20,2.1,1,27,Cloudy,13,Success
+19,7,Quad,20,11,4.1,3,22,Sunny,5,Success
+23,10,Hex,20,19,5.9,1,15,Partly Cloudy,12,Success
+26,20,Hex,16,17,8.7,5,26,Sunny,10,Success
+18,17,Hex,20,9,7.3,11,12,Partly Cloudy,0,Success
+28,18,Quad,12,11,6.4,10,35,Partly Cloudy,8,Success
+28,15,Hex,20,6,1.9,2,15,Partly Cloudy,11,Success
+16,8,Hex,20,13,4.3,6,15,Cloudy,13,Fail
+25,15,Hex,20,6,9.9,11,24,Partly Cloudy,1,Success
+21,11,Quad,12,4,6.6,6,20,Partly Cloudy,15,Success
+27,7,Hex,16,23,0.7,12,25,Sunny,15,Fail
+13,13,Quad,16,10,3.3,5,23,Partly Cloudy,5,Success
+27,21,Hex,24,8,1.3,1,23,Sunny,5,Success
+19,17,Hex,24,12,5.3,1,33,Cloudy,15,Fail
+13,10,Quad,16,22,5.4,8,15,Partly Cloudy,14,Fail
+20,9,Hex,16,8,5.8,10,4,Sunny,2,Success
+17,15,Hex,16,8,4.2,8,23,Sunny,4,Success
+17,16,Quad,16,18,6.2,9,14,Partly Cloudy,12,Fail
+21,10,Quad,20,17,1.7,11,26,Sunny,10,Success
+14,15,Hex,16,15,5.6,7,7,Sunny,7,Success
+29,16,Hex,16,4,3.3,1,31,Sunny,14,Success
+26,17,Hex,16,11,9.1,9,17,Cloudy,9,Fail
+13,17,Hex,24,20,5.3,4,5,Cloudy,14,Fail
+15,19,Quad,12,20,9,6,23,Sunny,15,Success
+21,10,Quad,12,19,7.5,10,11,Partly Cloudy,9,Success
+15,9,Hex,16,8,0.2,5,4,Partly Cloudy,14,Fail
+13,20,Quad,12,9,7.6,6,12,Partly Cloudy,12,Success
+19,15,Quad,12,7,1.6,4,23,Partly Cloudy,1,Success
+14,15,Quad,12,12,5,3,12,Partly Cloudy,11,Success
+28,7,Hex,20,7,0.8,3,35,Sunny,1,Success
+13,10,Hex,20,24,0.4,3,4,Sunny,14,Fail
+24,15,Hex,16,21,4.5,3,19,Sunny,14,Success
+21,8,Hex,20,22,8.1,3,29,Sunny,9,Success
+28,13,Quad,20,12,4.8,4,29,Sunny,14,Success
+21,20,Hex,16,7,9.9,10,21,Sunny,14,Success
+22,21,Quad,20,8,5.5,11,29,Partly Cloudy,10,Success
+22,13,Hex,24,2,1,12,32,Partly Cloudy,10,Success
+24,16,Quad,12,8,4.2,10,4,Sunny,10,Success
+15,16,Hex,16,6,7.9,4,18,Sunny,8,Success
+19,14,Quad,16,23,1.1,5,27,Cloudy,10,Success
+23,9,Hex,16,10,6.5,6,32,Cloudy,8,Fail
+13,20,Quad,16,4,6.9,7,19,Sunny,8,Success
+14,18,Hex,24,19,3.4,0,12,Sunny,1,Success
+13,16,Hex,20,11,2.7,0,4,Cloudy,5,Success
+23,12,Quad,12,16,5,4,22,Sunny,10,Success
+26,13,Hex,20,19,2.9,10,14,Partly Cloudy,2,Success
+17,18,Quad,12,15,7.1,10,15,Sunny,8,Success
+27,21,Hex,24,4,6,11,30,Sunny,5,Success
+13,10,Quad,16,22,4.9,8,4,Sunny,9,Fail
+29,7,Quad,16,8,4.4,0,24,Cloudy,0,Success
+19,20,Quad,20,11,2,7,4,Sunny,8,Success
+20,9,Hex,16,22,4.6,4,23,Cloudy,10,Fail
+15,8,Hex,16,12,8.1,5,13,Partly Cloudy,4,Fail
+29,15,Hex,24,9,8.7,3,31,Sunny,6,Success
+17,7,Quad,12,16,9.3,7,23,Cloudy,8,Fail
+14,13,Hex,16,11,8.1,8,8,Sunny,9,Fail
+22,13,Quad,20,12,0.6,2,25,Cloudy,1,Success
+16,21,Hex,16,4,1.1,8,13,Cloudy,7,Success
+24,10,Quad,12,8,2.6,1,28,Cloudy,9,Success
+16,19,Quad,20,7,2.4,7,18,Sunny,13,Success
+21,10,Hex,16,4,8.7,6,23,Cloudy,2,Success
+25,20,Hex,20,8,4.4,5,27,Cloudy,1,Success
+25,20,Hex,24,18,2.4,2,33,Partly Cloudy,11,Fail
+25,20,Hex,24,19,2.1,12,25,Cloudy,1,Success
+14,21,Quad,12,13,1.9,10,14,Partly Cloudy,12,Fail
+25,14,Quad,16,10,4.3,4,25,Sunny,6,Success
+19,16,Hex,24,16,4.5,2,16,Sunny,11,Success
+22,16,Quad,20,24,2,1,27,Partly Cloudy,15,Success
+26,19,Hex,24,8,3,11,35,Sunny,14,Fail
+29,8,Quad,20,22,3.3,8,35,Sunny,9,Fail
+19,14,Quad,20,4,7.8,5,31,Cloudy,13,Fail
+18,21,Hex,16,16,2.7,9,21,Sunny,6,Success
+18,7,Hex,24,24,0.6,7,11,Sunny,14,Fail
+24,9,Quad,12,14,6.4,10,15,Sunny,2,Success
+27,7,Quad,12,17,3.8,5,26,Sunny,1,Success
+21,15,Hex,24,11,4.5,9,35,Partly Cloudy,13,Fail
+18,19,Hex,24,9,6.5,4,20,Cloudy,14,Fail
+13,20,Hex,16,23,3,9,11,Partly Cloudy,11,Fail
+27,21,Quad,12,12,3.3,0,19,Sunny,13,Success
+20,21,Hex,24,8,1.9,11,18,Cloudy,0,Success
+20,16,Quad,12,19,7.8,3,14,Sunny,6,Success
+24,17,Quad,16,5,5.6,2,20,Partly Cloudy,9,Success
+23,12,Quad,20,23,1.4,9,15,Partly Cloudy,4,Success
+13,7,Hex,20,11,9.2,3,8,Sunny,14,Fail
+19,11,Hex,24,8,8.4,2,14,Sunny,10,Success
+20,10,Quad,20,10,5.4,1,13,Sunny,9,Success
+28,14,Quad,16,6,2.5,12,35,Sunny,2,Success
+25,13,Hex,16,14,7.3,3,31,Sunny,3,Success
+19,8,Hex,16,6,5.6,4,17,Partly Cloudy,0,Success
+28,8,Hex,20,8,8.5,1,24,Sunny,2,Success
+25,17,Quad,16,14,4.1,4,35,Cloudy,14,Success
+19,16,Hex,20,5,0.4,5,23,Cloudy,12,Success
+14,19,Hex,20,20,9.9,7,18,Sunny,4,Success
+25,14,Quad,12,24,8.1,1,34,Sunny,12,Fail
+15,8,Hex,20,3,9.5,6,23,Sunny,3,Success
+17,21,Hex,16,19,7.4,5,30,Cloudy,7,Fail
+29,13,Hex,24,9,2.4,7,35,Sunny,0,Success
+24,9,Quad,20,12,3.9,6,17,Sunny,7,Success
+27,10,Hex,20,23,8.4,7,32,Sunny,8,Fail
+24,13,Hex,20,20,1.1,10,14,Sunny,11,Fail
+27,15,Hex,20,21,2.6,12,19,Sunny,2,Success
+28,9,Quad,20,22,9.6,10,21,Cloudy,2,Fail
+14,7,Quad,16,20,8.9,3,21,Sunny,12,Fail
+24,17,Quad,16,15,8.8,1,6,Cloudy,7,Success
+24,8,Hex,16,13,9.9,0,33,Partly Cloudy,13,Fail
+13,9,Quad,12,3,3.3,3,14,Sunny,4,Success
+20,12,Hex,24,24,0.2,8,31,Sunny,14,Fail
+19,18,Quad,16,21,6,3,15,Partly Cloudy,10,Success
+16,12,Quad,16,14,7,11,4,Partly Cloudy,0,Success
+23,9,Quad,20,6,8,5,17,Partly Cloudy,3,Success
+21,11,Quad,12,6,1.4,10,22,Sunny,12,Success
+16,21,Quad,16,3,7.4,8,17,Cloudy,12,Fail
+29,19,Hex,20,14,7.8,0,20,Cloudy,5,Success
+28,19,Quad,16,15,8.3,7,21,Partly Cloudy,7,Success
+28,9,Hex,20,24,4.9,4,23,Partly Cloudy,12,Fail
+25,15,Hex,24,18,3,6,4,Partly Cloudy,1,Success
+26,8,Hex,20,11,7.8,12,32,Cloudy,5,Fail
+17,16,Quad,12,23,4.4,1,27,Cloudy,0,Success
+27,11,Quad,12,5,4.5,8,27,Sunny,3,Success
+20,9,Hex,16,18,5.8,12,14,Sunny,6,Success
+22,11,Hex,16,11,0.2,1,20,Partly Cloudy,9,Success
+29,17,Hex,24,22,4.3,4,27,Sunny,12,Success
+20,18,Hex,24,21,2.1,11,18,Sunny,6,Success
+27,11,Hex,20,7,1.1,0,35,Sunny,6,Success
+13,14,Quad,20,9,3,5,5,Sunny,6,Success
+19,8,Hex,20,17,0.9,0,14,Sunny,5,Success
+29,16,Hex,24,21,4.5,2,25,Sunny,12,Success
+22,11,Hex,24,16,2.8,7,28,Sunny,8,Success
+28,11,Quad,16,20,9.4,3,35,Partly Cloudy,3,Fail
+24,20,Quad,20,6,0.3,11,35,Partly Cloudy,2,Success
+23,10,Quad,12,12,0.8,12,11,Sunny,11,Success
+20,15,Hex,24,24,7.9,8,18,Sunny,1,Success
+25,7,Hex,20,9,2,4,13,Sunny,3,Success
+23,16,Quad,20,2,9.6,5,35,Partly Cloudy,2,Success
+22,14,Hex,20,21,0.1,11,18,Sunny,7,Success
+24,20,Quad,16,13,6,2,25,Partly Cloudy,9,Success
+20,14,Hex,24,4,8.6,9,29,Partly Cloudy,2,Success
+16,13,Quad,20,7,4.7,12,9,Partly Cloudy,12,Fail
+19,21,Hex,16,18,8.4,2,12,Cloudy,0,Success
+26,9,Hex,24,24,6.9,12,9,Partly Cloudy,5,Fail
+24,10,Quad,16,3,4.1,3,19,Sunny,9,Success
+16,20,Hex,20,4,9.7,7,7,Partly Cloudy,5,Success
+15,14,Hex,24,16,6.4,11,33,Sunny,13,Success
+24,18,Hex,24,18,0.7,6,25,Partly Cloudy,5,Success
+22,16,Hex,24,13,4.1,10,21,Cloudy,4,Success
+22,20,Hex,16,10,8.8,2,29,Partly Cloudy,0,Success
+23,15,Hex,24,17,2.9,7,30,Cloudy,8,Success
+18,20,Hex,20,21,6.2,2,18,Sunny,10,Success
+26,20,Hex,24,19,1,0,29,Cloudy,2,Success
+15,14,Hex,24,11,6,10,9,Sunny,14,Fail
+16,15,Hex,24,6,0.9,7,23,Sunny,2,Success
+13,11,Quad,12,3,7.4,9,4,Sunny,9,Fail
+19,18,Hex,20,8,4.5,12,17,Partly Cloudy,15,Success
+24,7,Hex,16,14,1.5,4,7,Sunny,13,Success
+27,18,Quad,12,14,7.6,2,35,Cloudy,5,Success
+27,14,Quad,12,22,2.2,4,31,Partly Cloudy,7,Success
+17,13,Quad,16,9,2.3,6,28,Partly Cloudy,5,Success
+28,8,Quad,12,9,8.8,5,33,Cloudy,3,Success
+22,10,Hex,16,13,4.5,0,10,Cloudy,0,Success
+20,20,Hex,20,13,7.1,1,14,Sunny,1,Success
+20,21,Hex,20,5,1,3,14,Sunny,0,Success
+22,9,Quad,16,16,3.9,5,35,Partly Cloudy,14,Success
+25,14,Quad,12,14,3.1,6,10,Sunny,14,Success
+13,7,Hex,24,20,6,11,4,Partly Cloudy,9,Fail
+20,8,Quad,20,15,3.6,8,18,Partly Cloudy,4,Success
+29,16,Quad,12,23,8.3,7,35,Cloudy,9,Success
+21,15,Hex,20,17,3.1,5,29,Partly Cloudy,3,Success
+15,7,Quad,16,23,0.6,6,11,Cloudy,10,Fail
+23,18,Hex,16,24,1.2,3,23,Partly Cloudy,6,Success
+28,7,Hex,24,5,3.8,10,31,Cloudy,14,Fail
+25,9,Quad,16,4,5.5,4,35,Partly Cloudy,15,Success
+21,15,Quad,16,16,1,7,28,Cloudy,13,Success
+28,14,Quad,20,14,1.9,11,15,Cloudy,1,Success
+19,19,Hex,24,10,5.4,10,30,Sunny,6,Success
+13,18,Hex,16,20,0.1,12,15,Partly Cloudy,6,Success
+19,20,Quad,16,18,5,8,24,Sunny,15,Success
+18,16,Quad,12,12,6.6,12,15,Sunny,10,Success
+22,13,Quad,20,2,5.4,7,12,Sunny,10,Success
+22,10,Hex,24,8,2.9,4,7,Sunny,13,Fail
+24,11,Quad,16,23,9.9,11,26,Sunny,2,Success
+27,19,Quad,20,21,3.1,11,21,Sunny,2,Success
+18,13,Hex,16,18,3.9,2,15,Sunny,0,Success
+26,19,Hex,20,14,2.7,10,22,Cloudy,12,Fail
+25,10,Hex,24,5,7.6,11,34,Partly Cloudy,12,Fail
+22,15,Quad,20,18,5.3,2,19,Partly Cloudy,5,Success
+24,13,Quad,16,23,2.2,8,20,Sunny,1,Success
+28,17,Quad,16,13,2.2,9,35,Cloudy,1,Success
+20,12,Quad,12,15,2.2,7,26,Partly Cloudy,4,Success
+24,21,Hex,24,8,3.8,6,27,Sunny,0,Success
+21,7,Quad,12,15,5.6,3,8,Cloudy,4,Success
+21,15,Quad,16,22,6.2,2,17,Partly Cloudy,5,Success
+13,8,Hex,16,2,5.4,6,9,Sunny,15,Fail
+22,17,Quad,16,17,7.2,10,20,Sunny,2,Success
+20,21,Hex,16,20,3.3,12,13,Cloudy,13,Fail
+17,8,Hex,24,8,1.6,1,13,Cloudy,1,Success
+17,11,Hex,20,23,0.6,4,24,Sunny,13,Success
+16,14,Hex,16,21,5.7,5,19,Partly Cloudy,15,Fail
+16,11,Hex,16,2,5.4,7,4,Sunny,7,Success
+27,15,Quad,20,24,9.9,9,33,Cloudy,14,Fail
+16,8,Quad,12,16,6.8,1,20,Cloudy,7,Success
+29,7,Quad,20,17,6.2,8,21,Sunny,8,Fail
+18,20,Quad,20,9,5.5,9,17,Sunny,9,Success
+17,8,Quad,16,12,9.2,2,17,Sunny,13,Success
+29,11,Hex,16,17,9.3,3,34,Sunny,11,Fail
+21,17,Quad,12,9,6.8,9,24,Sunny,7,Success
+29,10,Hex,20,4,3.8,0,26,Cloudy,14,Fail
+22,14,Hex,16,7,7.9,0,27,Sunny,0,Success
+25,14,Hex,20,18,4.5,9,31,Sunny,10,Fail
+15,17,Hex,20,15,7.4,7,20,Cloudy,15,Fail
+28,9,Hex,16,6,4.9,8,23,Cloudy,5,Success
+18,16,Hex,20,22,3.1,4,22,Cloudy,0,Success
+16,8,Quad,16,20,2.2,9,13,Sunny,0,Success
+27,11,Quad,16,3,6.3,7,28,Sunny,5,Success
+21,19,Hex,20,10,0.4,9,11,Cloudy,6,Success
+16,10,Hex,16,23,0.4,11,24,Cloudy,13,Fail
+19,14,Hex,24,23,2.8,6,12,Sunny,15,Fail
+27,17,Quad,16,4,1.3,1,28,Sunny,5,Success
+19,20,Quad,16,3,0.1,10,22,Partly Cloudy,10,Success
+19,10,Hex,24,7,5.4,6,12,Sunny,9,Fail
+20,15,Quad,20,6,7,6,13,Sunny,0,Success
+18,21,Hex,24,18,9.3,6,26,Partly Cloudy,2,Success
+21,16,Hex,24,24,7,2,6,Partly Cloudy,0,Success
+24,14,Quad,16,2,2.8,0,18,Cloudy,1,Success
+18,7,Hex,16,15,3.5,8,8,Cloudy,7,Fail
+13,21,Quad,16,3,2.6,10,19,Partly Cloudy,4,Success
+15,7,Quad,20,9,2.5,11,12,Sunny,4,Success
+18,20,Quad,12,2,1.1,1,16,Sunny,10,Success
+16,13,Hex,20,14,6.9,7,12,Cloudy,15,Fail
+26,10,Hex,20,8,3.9,11,26,Sunny,3,Success
+25,9,Quad,12,8,5.3,0,17,Cloudy,9,Success
+22,8,Quad,16,18,5.6,12,18,Partly Cloudy,13,Success
+16,18,Hex,20,6,8.1,9,22,Sunny,8,Success
+22,11,Hex,16,11,7.7,11,29,Partly Cloudy,9,Fail
+25,9,Quad,12,23,8,9,29,Sunny,8,Success
+28,14,Quad,20,8,8.1,2,32,Sunny,0,Success
+13,11,Hex,20,7,4.2,10,10,Cloudy,1,Fail
+17,21,Quad,16,23,0.6,2,11,Sunny,14,Success
+15,15,Hex,16,20,3.8,8,8,Sunny,6,Success
+27,13,Quad,16,16,2.1,1,35,Sunny,9,Success
+14,7,Hex,24,21,4.1,1,10,Partly Cloudy,2,Success
+28,18,Hex,24,13,2.7,10,18,Partly Cloudy,1,Success
+14,9,Hex,20,5,8.9,5,14,Cloudy,8,Fail
+18,20,Quad,20,2,2.4,5,16,Sunny,2,Success
+22,21,Quad,20,23,6.8,0,26,Cloudy,15,Success
+20,11,Quad,16,13,5.5,9,19,Partly Cloudy,11,Success
+26,21,Quad,20,13,6.2,2,23,Sunny,2,Success
+20,19,Quad,12,10,1.5,7,35,Sunny,8,Success
+27,20,Hex,20,8,4.2,8,25,Sunny,15,Success
+28,18,Hex,20,11,8.8,2,29,Partly Cloudy,14,Success
+23,7,Quad,16,17,9.3,7,35,Sunny,8,Success
+13,17,Hex,16,3,9.4,10,21,Sunny,14,Fail
+17,8,Quad,16,23,3.9,4,15,Partly Cloudy,4,Success
+24,12,Hex,24,10,0.8,7,24,Cloudy,2,Success
+23,12,Quad,16,19,3.7,9,20,Sunny,10,Success
+14,13,Quad,16,11,6.3,1,15,Sunny,5,Success
+17,7,Hex,20,16,3.3,0,12,Partly Cloudy,6,Success
+26,18,Quad,12,20,8.5,4,26,Cloudy,8,Success
+29,14,Hex,24,10,7.8,6,34,Cloudy,3,Fail
+14,11,Quad,12,12,5.4,7,4,Sunny,9,Fail
+26,17,Hex,20,7,1.4,11,18,Partly Cloudy,11,Success
+29,18,Quad,16,2,9.6,10,17,Cloudy,9,Fail
+19,13,Hex,16,14,4.2,0,18,Sunny,1,Success
+18,16,Hex,20,6,3.5,2,20,Sunny,12,Success
+16,11,Hex,20,10,8,5,9,Cloudy,11,Fail
+16,17,Quad,20,10,8.3,1,35,Cloudy,14,Success
+18,7,Hex,16,14,6.8,0,21,Sunny,3,Success
+13,9,Hex,16,24,9.2,8,7,Partly Cloudy,13,Fail
+28,19,Hex,16,11,3.7,5,35,Partly Cloudy,5,Success
+19,10,Quad,12,24,5.3,6,18,Cloudy,3,Success
+27,17,Quad,12,8,2.4,3,25,Partly Cloudy,3,Success
+23,20,Quad,20,7,6.9,12,32,Cloudy,4,Success
+18,15,Quad,12,6,7,11,15,Cloudy,7,Success
+24,15,Hex,24,18,6.9,2,35,Sunny,1,Success
+26,16,Hex,24,7,6.3,2,27,Partly Cloudy,0,Success
+21,8,Quad,12,8,0.5,12,28,Cloudy,7,Success
+15,9,Hex,16,2,8.1,8,14,Sunny,3,Success
+21,18,Quad,20,24,5.7,12,11,Partly Cloudy,13,Fail
+17,10,Hex,16,11,5.1,0,4,Cloudy,13,Fail
+20,12,Quad,16,7,5,6,27,Cloudy,15,Success
+16,9,Hex,20,6,7.5,8,9,Sunny,13,Fail
+13,21,Quad,20,17,1.6,1,8,Sunny,8,Success
+29,16,Quad,16,8,0.5,0,19,Cloudy,2,Success
+25,7,Quad,16,23,9.2,6,35,Sunny,7,Fail
+27,12,Quad,12,18,8.5,12,16,Sunny,13,Fail
+21,15,Hex,24,2,7.1,7,14,Cloudy,6,Fail
+24,16,Hex,20,4,4.3,0,30,Partly Cloudy,10,Success
+23,9,Hex,20,7,1.2,2,27,Sunny,3,Success
+20,13,Hex,24,7,6.3,4,28,Cloudy,13,Success
+13,16,Hex,24,15,2.8,4,4,Sunny,8,Fail
+17,16,Hex,20,22,3.3,0,4,Cloudy,2,Success
+20,11,Hex,24,15,5.3,8,29,Partly Cloudy,3,Success
+15,15,Quad,20,14,3,12,16,Cloudy,10,Fail
+18,19,Hex,16,13,5.6,8,15,Sunny,15,Success
+28,12,Hex,20,15,7.5,2,26,Partly Cloudy,5,Success
+26,19,Hex,20,6,7.6,0,35,Cloudy,15,Fail
+20,16,Quad,12,13,6.9,6,35,Cloudy,12,Fail
+16,7,Quad,20,5,2.6,2,26,Sunny,1,Success
+20,15,Hex,16,19,6.4,0,28,Partly Cloudy,12,Success
+29,14,Quad,20,13,2.7,6,35,Sunny,15,Success
+27,9,Quad,20,14,1,3,23,Partly Cloudy,8,Success
+28,15,Quad,16,15,5.3,3,32,Sunny,7,Success
+26,12,Quad,12,21,5.4,5,33,Sunny,14,Fail
+27,21,Quad,12,12,8.1,3,24,Sunny,6,Success
+18,11,Hex,16,24,3.8,3,22,Sunny,5,Success
+23,21,Quad,12,18,4.7,11,20,Partly Cloudy,9,Success
+26,20,Hex,16,23,8.6,3,30,Cloudy,14,Fail
+14,8,Hex,24,20,3.4,6,16,Partly Cloudy,8,Fail
+27,15,Hex,20,20,1.2,3,32,Sunny,1,Success
+27,18,Hex,16,8,7.2,6,35,Sunny,8,Success
+23,15,Quad,16,10,9.1,9,25,Cloudy,4,Success
+17,12,Quad,16,14,0.7,0,20,Sunny,6,Success
+13,9,Hex,20,9,6.1,1,5,Sunny,8,Fail
+29,19,Quad,16,15,8.1,4,35,Sunny,12,Success
+21,16,Quad,12,9,8.8,12,25,Cloudy,3,Success
+14,15,Hex,20,4,8.3,2,20,Cloudy,2,Success
+28,8,Quad,16,20,3.4,2,25,Cloudy,11,Success
+25,8,Hex,20,17,6.1,11,31,Sunny,9,Fail
+23,8,Quad,20,8,7.7,5,35,Sunny,14,Success
+17,14,Quad,12,10,7.6,11,16,Partly Cloudy,7,Success
+23,12,Hex,24,8,4.1,2,33,Partly Cloudy,0,Success
+28,12,Hex,24,11,5.9,4,31,Cloudy,13,Fail
+18,21,Hex,24,12,0.1,9,26,Sunny,15,Success
+16,13,Hex,16,22,4.7,2,18,Sunny,14,Fail
+25,8,Quad,20,17,9.2,7,29,Cloudy,11,Fail
+21,7,Hex,16,11,6.8,0,4,Cloudy,7,Fail
+13,12,Hex,16,6,3.2,0,15,Cloudy,7,Fail
+20,16,Hex,20,17,8.8,0,29,Sunny,13,Success
+23,20,Hex,16,5,7.4,7,20,Sunny,6,Success
+22,8,Hex,20,4,1.4,8,14,Cloudy,3,Success
+24,20,Hex,16,10,8,10,27,Cloudy,3,Success
+26,12,Quad,16,3,3.1,2,28,Partly Cloudy,4,Success
+21,8,Quad,20,17,3.7,4,15,Partly Cloudy,11,Success
+23,19,Hex,16,5,9.9,12,21,Sunny,13,Success
+24,17,Hex,20,14,3.7,12,26,Sunny,3,Success
+14,21,Hex,20,6,1.5,5,12,Sunny,10,Fail
+29,19,Hex,24,24,8.1,5,22,Sunny,12,Success
+27,7,Quad,20,5,6.8,7,35,Sunny,3,Success
+25,8,Hex,24,4,7.7,5,24,Partly Cloudy,7,Success
+14,12,Hex,16,20,4.8,8,20,Partly Cloudy,10,Fail
+27,9,Quad,20,21,4.1,2,22,Sunny,13,Fail
+25,16,Quad,16,22,1.2,12,26,Partly Cloudy,6,Success
+26,19,Hex,24,18,7.5,5,29,Partly Cloudy,6,Success
+23,17,Quad,12,4,8.7,3,19,Cloudy,3,Success
+17,12,Quad,12,18,9,9,35,Cloudy,1,Success
+25,8,Hex,16,2,1,12,26,Sunny,12,Success
+24,10,Quad,20,11,1.2,9,22,Sunny,11,Success
+13,16,Hex,16,12,2.2,6,26,Sunny,13,Success
+23,8,Quad,12,5,9,4,27,Cloudy,12,Success
+13,8,Hex,16,4,6.8,7,12,Sunny,7,Success
+14,16,Hex,16,2,2.7,3,14,Cloudy,7,Fail
+27,12,Quad,12,18,4.9,3,28,Sunny,4,Success
+29,14,Hex,24,17,5.3,11,32,Cloudy,4,Fail
+18,19,Hex,24,15,8.1,11,21,Cloudy,10,Fail
+27,13,Hex,20,6,7.3,7,35,Cloudy,1,Success
+27,8,Quad,16,2,1.6,0,29,Sunny,9,Success
+18,10,Hex,24,8,0.3,8,12,Sunny,15,Success
+29,14,Hex,24,21,6.9,10,24,Sunny,4,Fail
+25,17,Hex,24,8,0.3,5,28,Sunny,6,Success
+15,13,Hex,24,20,4.8,7,31,Sunny,1,Fail
+27,10,Quad,12,13,5.4,9,35,Partly Cloudy,9,Fail
+14,18,Hex,24,14,3.1,9,14,Sunny,5,Success
+16,17,Quad,20,17,4.5,1,15,Partly Cloudy,11,Success
+24,18,Hex,20,23,10,4,28,Sunny,2,Success
+23,10,Quad,20,13,7.2,0,31,Partly Cloudy,14,Success
+14,20,Quad,16,19,5.8,1,17,Cloudy,1,Success
+21,16,Quad,16,2,1.6,11,29,Cloudy,7,Success
+27,21,Hex,16,8,3.5,12,32,Partly Cloudy,15,Fail
+23,7,Hex,20,22,4.7,8,31,Partly Cloudy,0,Success
+24,21,Hex,24,9,1.2,3,14,Sunny,6,Success
+17,21,Hex,20,24,9.8,1,28,Cloudy,11,Fail
+26,7,Hex,16,15,3.5,7,25,Partly Cloudy,5,Success
+22,11,Quad,16,21,3.6,6,20,Partly Cloudy,7,Success
+14,10,Hex,16,8,2.1,3,25,Partly Cloudy,0,Success
+13,7,Quad,16,20,4.6,6,9,Cloudy,11,Fail
+21,18,Hex,20,3,1.1,1,23,Sunny,5,Success
+28,9,Hex,16,12,8.5,4,23,Partly Cloudy,8,Success
+17,11,Hex,24,2,2.1,0,23,Sunny,5,Success
+23,19,Quad,12,10,4.1,8,21,Partly Cloudy,5,Success
+21,15,Hex,20,18,6.5,2,26,Cloudy,13,Fail
+13,18,Quad,12,13,1.6,1,23,Sunny,11,Success
+22,9,Quad,16,11,4.8,6,35,Sunny,0,Success
+15,7,Quad,20,8,8.3,11,13,Sunny,7,Success
+15,9,Hex,24,19,0.5,10,4,Sunny,1,Success
+18,16,Quad,16,15,2.7,8,5,Cloudy,2,Success
+26,11,Quad,20,17,6.4,1,27,Sunny,0,Success
+21,14,Hex,24,22,9.1,8,30,Cloudy,8,Fail
+20,9,Hex,16,18,5.3,6,18,Sunny,1,Success
+24,12,Hex,16,6,8.1,9,16,Sunny,8,Fail
+20,13,Quad,16,8,4.1,12,18,Partly Cloudy,4,Success
+21,7,Quad,20,19,7,10,10,Cloudy,13,Fail
+29,16,Quad,20,10,9.7,11,21,Cloudy,11,Success
+15,13,Quad,20,7,9.6,7,22,Cloudy,3,Success
+21,8,Hex,20,9,9.8,12,22,Sunny,8,Success
+13,9,Quad,12,3,5.7,11,7,Cloudy,10,Fail
+17,17,Hex,16,18,4.3,7,23,Cloudy,7,Success
+23,11,Quad,16,20,0.6,9,35,Sunny,9,Success
+27,9,Hex,16,22,7.6,9,33,Cloudy,11,Fail
+19,10,Quad,12,4,1.3,1,26,Partly Cloudy,15,Success
+23,10,Quad,12,3,1.9,4,30,Sunny,9,Success
+26,7,Quad,16,15,0.5,0,28,Cloudy,14,Success
+29,19,Hex,20,24,3.8,6,33,Sunny,6,Success
+25,7,Quad,16,21,9.3,7,22,Sunny,8,Success
+16,19,Hex,16,22,5.8,7,8,Sunny,12,Fail
+15,16,Quad,12,10,8.4,12,12,Sunny,14,Fail
+29,10,Quad,16,14,3.8,3,19,Partly Cloudy,14,Success
+19,14,Quad,12,14,7,3,19,Cloudy,2,Success
+21,12,Quad,12,20,5,12,5,Sunny,10,Fail
+26,18,Hex,16,5,8.4,10,28,Partly Cloudy,13,Fail
+14,9,Hex,16,12,3.2,4,25,Cloudy,7,Fail
+29,9,Quad,12,8,2.5,10,35,Sunny,2,Success
+22,19,Hex,16,19,7.7,7,27,Sunny,1,Success
+19,9,Hex,20,3,7.2,9,25,Sunny,6,Success
+28,15,Quad,12,16,3.2,11,28,Partly Cloudy,14,Success
+20,17,Quad,16,22,3.3,4,21,Cloudy,1,Success
+15,8,Hex,20,16,7.3,5,13,Sunny,13,Fail
+23,20,Quad,16,8,8.1,8,26,Sunny,11,Success
+27,13,Hex,24,10,7,5,25,Sunny,7,Success
+24,17,Hex,20,9,8.9,8,28,Sunny,2,Success
+26,19,Hex,24,20,1.2,10,18,Partly Cloudy,5,Success
+25,21,Quad,12,3,8.8,11,35,Cloudy,2,Success
+27,18,Hex,24,21,1.9,0,23,Sunny,15,Success
+25,16,Quad,16,24,1,10,22,Partly Cloudy,11,Success
+15,9,Quad,16,13,3.1,4,25,Partly Cloudy,6,Success
+21,20,Hex,16,14,9.3,2,22,Partly Cloudy,6,Success
+24,8,Hex,24,19,5,10,28,Sunny,1,Success
+15,17,Hex,20,11,4.6,9,9,Sunny,11,Success
+29,18,Quad,12,7,0.9,5,35,Sunny,14,Success
+24,9,Quad,20,10,7.1,0,34,Sunny,9,Success
+27,9,Quad,20,9,5.9,12,34,Partly Cloudy,14,Fail
+20,17,Hex,16,8,4.1,10,21,Sunny,8,Success
+20,18,Quad,16,13,5.1,4,30,Cloudy,2,Success
+20,20,Hex,20,9,5.3,9,32,Partly Cloudy,7,Success
+19,16,Hex,20,17,3.5,6,10,Sunny,1,Success
+17,7,Hex,24,11,6.3,9,20,Sunny,7,Success
+18,8,Hex,24,3,0.1,2,22,Partly Cloudy,13,Success
+26,19,Quad,12,22,3.3,4,27,Cloudy,3,Success
+21,10,Hex,24,2,9.7,0,25,Sunny,11,Success
+13,16,Hex,20,18,9.5,0,17,Cloudy,0,Fail
+25,14,Quad,16,12,8.2,7,35,Cloudy,11,Fail
+13,9,Hex,20,13,7.9,9,4,Partly Cloudy,12,Fail
+24,17,Hex,24,15,2.2,3,15,Sunny,12,Success
+26,15,Hex,16,20,3.6,11,30,Cloudy,13,Fail
+25,9,Hex,16,8,4.7,6,13,Cloudy,3,Success
+17,14,Quad,12,22,4.8,1,16,Partly Cloudy,3,Success
+22,8,Quad,12,5,4.9,5,19,Sunny,4,Success
+28,10,Quad,12,5,9,0,19,Sunny,7,Success
+18,17,Hex,24,21,6.3,8,20,Sunny,5,Success
+22,7,Quad,12,10,7.9,6,30,Sunny,5,Success
+15,7,Quad,16,13,9.3,10,10,Cloudy,4,Fail
+25,21,Hex,16,24,3,1,35,Partly Cloudy,13,Fail
+29,17,Hex,24,14,2.2,3,30,Sunny,3,Success
+22,18,Quad,12,20,0.9,8,13,Sunny,6,Success
+19,17,Hex,20,2,3.5,5,26,Sunny,10,Success
+20,21,Hex,20,5,9.6,3,21,Partly Cloudy,5,Success
+29,20,Quad,20,15,5.7,12,27,Sunny,6,Success
+24,7,Quad,12,11,2.8,11,29,Sunny,7,Success
+28,19,Quad,16,11,5,6,22,Partly Cloudy,5,Success
+15,18,Hex,24,11,3.3,3,8,Sunny,6,Success
+13,17,Quad,20,2,4.9,8,19,Cloudy,14,Fail
+15,8,Quad,12,3,2.1,10,4,Partly Cloudy,4,Success
+29,10,Hex,20,7,0.5,5,27,Partly Cloudy,7,Success
+17,9,Quad,20,12,3.5,8,14,Sunny,7,Success
+27,14,Hex,24,17,5.9,11,8,Partly Cloudy,15,Fail
+23,10,Quad,16,13,5.2,4,16,Sunny,2,Success
+29,21,Quad,16,17,3.3,12,27,Partly Cloudy,3,Success
+23,12,Quad,16,23,6.2,10,35,Partly Cloudy,3,Success
+20,12,Hex,16,13,0.1,1,28,Sunny,2,Success
+17,15,Hex,24,16,3.9,4,10,Partly Cloudy,8,Success
+20,20,Quad,12,21,2.7,7,11,Sunny,12,Success
+16,15,Quad,12,13,5.5,12,23,Cloudy,12,Fail
+18,18,Hex,24,18,4.8,0,14,Sunny,5,Fail
+22,7,Quad,12,7,1,5,4,Partly Cloudy,7,Success
+19,19,Hex,16,17,7.2,10,18,Sunny,3,Success
+14,11,Hex,24,23,3.6,5,11,Sunny,9,Fail
+20,10,Hex,24,5,3.2,10,8,Sunny,3,Success
+28,10,Quad,12,5,0.5,9,12,Sunny,6,Success
+18,8,Hex,16,11,5.1,10,24,Cloudy,6,Fail
+25,12,Hex,24,21,0.9,0,27,Cloudy,13,Fail
+26,15,Hex,20,7,3.1,6,35,Sunny,10,Success
+15,15,Quad,20,2,5.4,12,16,Sunny,10,Success
+20,16,Hex,20,2,9.7,7,24,Cloudy,6,Success
+14,10,Quad,12,19,7,12,4,Cloudy,13,Fail
+18,15,Quad,20,15,7.4,0,34,Sunny,3,Success
+15,16,Quad,12,19,7,10,28,Sunny,10,Success
+17,17,Hex,20,3,4,1,13,Sunny,0,Success
+26,17,Quad,20,10,4.3,6,32,Cloudy,8,Success
+23,14,Hex,16,7,5.4,2,35,Sunny,2,Success
+29,12,Hex,16,13,5.9,12,33,Sunny,14,Fail
+22,13,Quad,16,8,4.1,12,24,Sunny,0,Success
+13,9,Hex,20,20,6.9,4,11,Sunny,10,Fail
+21,18,Hex,16,15,6.2,8,28,Partly Cloudy,1,Success
+19,13,Hex,20,20,1.4,5,12,Partly Cloudy,5,Fail
+24,14,Hex,24,13,7.8,3,21,Partly Cloudy,7,Success
+29,19,Quad,16,24,8.6,8,30,Partly Cloudy,12,Fail
+29,17,Hex,16,24,4.3,1,31,Cloudy,4,Success
+23,20,Hex,20,14,6.7,11,12,Sunny,13,Success
+14,19,Hex,16,22,7.2,5,7,Cloudy,7,Fail
+27,9,Hex,16,15,3.2,6,18,Sunny,5,Success
+15,20,Hex,24,9,9,8,11,Sunny,7,Success
